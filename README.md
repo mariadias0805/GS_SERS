@@ -6,12 +6,10 @@ Projeto em grupo de Ciência da Computação (FIAP). O Citizen Assist AI nasceu 
 
 ## Integrantes
 
-| Nome completo | RM |
-|---|---|
 Ana Julia Yumi Inoue - RM: 569430
 Maria Fernanda Dias Ribeiro - RM: 569999
 Ulysses Gomes Soares de Souza - RM: 573826
----
+
 
 
 ### Público e problema
@@ -93,11 +91,6 @@ citizen-assist-ai/
 └── testes/
     └── sers/                     
 
-
-## Referências
-
-Lista completa, com links e data de consulta, em `docs/sers/04_fontes_e_referencias.md`. Principais: ANEEL (REH 3.596/2026 e RN 1.000/2021), Lei 14.300/2022, Lei 8.245/1991, cartilha "Guia do melhor consumo" da CEMIG e MCTI (fator de emissão do SIN).
-
-## Uso de IA generativa
-
+** ## Uso de IA generativa
+**
 Usamos IA como apoio para organizar e programar, e verificamos dados, cálculos, fontes e recomendações.
